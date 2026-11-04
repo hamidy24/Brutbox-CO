@@ -1,0 +1,6 @@
+{
+  "name": "BRUTBOX & CO. — Modern Men's Essentials",
+  "description": "Curated men's essentials digital storefront and merchant administration suite featuring visual size calculator, slide-out cart, live order tracking, and inventory analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
